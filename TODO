@@ -1,0 +1,5 @@
+* Add a cvs_tag parameter that indicates what tag to check out
+
+* Add an option to check out files into a working directory
+
+* Support remote repositories

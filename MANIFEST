@@ -1,0 +1,8 @@
+CVS.pm
+MANIFEST
+Makefile.PL
+TODO
+t/00-loadme.t
+t/01-cvs-init.t
+t/11-get-info.t
+t/99-cvs-remove.t
